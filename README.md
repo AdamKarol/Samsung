@@ -1,4 +1,7 @@
-# Samsung
+# Samsung project
 The file run_analysis.R contains the script to run in R.
 The script creates new data set from data on analysis of Human Activity Recognition Using Smartphones.
-The data set includes means per person and activity of every variable that was a mean or standard deviation of the sigle measurment.
+The data set includes means per person and activity of every variable that was a mean or standard deviation of those measurments.
+
+Please set the working directory to the folder where you hane unzipped folder "UCI HAR Dataset".
+
